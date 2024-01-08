@@ -1,4 +1,4 @@
-# Criação Pacote - exemplo
+# Criação de Pacote Python - exemplo
 
 Descrição de como o pacote funciona...
 
